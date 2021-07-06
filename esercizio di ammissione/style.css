@@ -1,0 +1,67 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+ .background-black{
+   background-color: rgba(20, 20, 20, 0.6);
+   margin-top: 5%;
+   margin-left: 15%;
+   margin-right: 15%;
+ }
+
+#logo{
+width: 25%;
+margin-top:5%;
+}
+
+header h1{
+  color: rgb(0, 200, 0);
+  font-family: 'Ubuntu', sans-serif;
+}
+
+header,nav{
+  text-align: center;
+}
+
+nav{
+  background-color: rgba(0, 200, 0, 1);
+  padding:1%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+main{
+  color: white;
+  margin-left: 10%;
+  padding-bottom: 10%;
+}
+
+main h2{
+  display:inline-block;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#caricagino{
+  color: orange;
+  border: 20px solid orange;
+  width: 25%;
+  border-radius:10px;
+  margin-left: 0%;
+
+}
+#caricamike{
+  color: green;
+  border: 20px solid green;
+  width: 50%;
+  border-radius:10px;
+  margin-left: 0%;
+
+}
+#caricafede{
+  color: red;
+  border: 20px solid red;
+  width: 12%;
+  border-radius:10px;
+  margin-left: 0%;
+}
